@@ -1,2 +1,0 @@
-# AyoDolen
-UAS
